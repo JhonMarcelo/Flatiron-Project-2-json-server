@@ -24,27 +24,30 @@
     },
     {
       "id": 2,
-      "name": "Something2",
+      "name": "Beef Stroganoff",
       "category": "lunch",
-      "image": "some url",
-      "ingredients": [],
-      "directions": []
-    },
-    {
-      "id": 3,
-      "name": "Something3",
-      "category": "lunch",
-      "image": "some url",
-      "ingredients": [],
-      "directions": []
-    },
-    {
-      "id": 4,
-      "name": "Something4",
-      "category": "lunch",
-      "image": "some url",
-      "ingredients": [],
-      "directions": []
+      "image": "https://drive.google.com/uc?export=view&id=/1f8JZqwpwjgYfe5cKJtJZ4TXEHaDVStrN",
+      "ingredients": [
+        "3 tbsp. butter, divided",
+        "1 lb. 80% lean ground beef",
+        "Kosher salt",
+        "Freshly ground black pepper",
+        "1 1/2 lb. mushrooms, sliced ",
+        "1 garlic clove, minced",
+        "1 c. low-sodium beef stock or bone broth",
+        "4 oz. cream cheese",
+        "1/2 c. sour cream",
+        "2 tsp. Worcestershire sauce",
+        "2 tsp. Dijon mustard",
+        "1/2 tsp. paprika",
+        "Finely chopped parsley, for garnish",
+        "steamed Cauliflower rice, for serving"
+      ],
+      "directions": [
+        "Step 1 Heat a large skillet over medium-high and melt 1 tablespoon of butter. Add ground beef and season with salt and pepper. Cook beef, stirring occasionally, until cooked through, about 10 minutes. Transfer meat to a plate.",
+        "Step 2 Return skillet to medium-high heat and add remaining butter and mushrooms. Cook, tossing occasionally, until mushrooms are golden, about 7 minutes. Season with salt and pepper and add garlic. Cook until fragrant, 1 minute. Add broth, cream cheese, sour cream, Worcestershire, Dijon, and paprika to skillet. Bring to a simmer, stirring. ",
+        "Step 3 Return beef to skillet and stir to combine. Serve over cauliflower rice with garnish with parsley."
+      ]
     }
   ]
 }
